@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+
+
+body{
+    color: rgb(255, 255, 255)  ;
+    background-color:black;
+    text-align: center;
+    
+
+}
+.hit{
+    background-color: red;
+}
+.kim{
+    background-color: red;
+}
+h3{
+    color: rgb(55, 231, 208);
+    font-size: 160%;
+}
+ h2{
+    font-size: 220%;
+ }
+h1{
+    color: rgb(253, 252, 252);
+    font-size: 320%;
+}
+.hitler{
+    text-align: center;
+    
+    
+}
+.imgContaner{
+    float:left;
+    background-color: red;
+    
+}
+p{
+    font-size: 150%;
+
+}
+label{
+    font-size: 130%;
+}
+a{
+    font-size: 120%
+    
+}
+.link{
+    font-size: 150%
+}
+
+
